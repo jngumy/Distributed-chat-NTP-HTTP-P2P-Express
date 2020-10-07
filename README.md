@@ -1,5 +1,3 @@
-# Distributed-chat-NTP-HTTP-P2P-Express
-
 # Distributed-chat-NTP-HTTP-P2P (Express Version)
 
 This was a project for my University's Distributed Systems subject. Basically, it's a  distributed shell chat implemented with Node.js and Express Framework. The main concepts here were work with:
